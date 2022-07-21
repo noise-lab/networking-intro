@@ -34,6 +34,8 @@ Below we will explore some of these phenomena.
 
 ## Activity
 
+### Part 1: DNS Lookups and Record Types
+
 1. Open a terminal program on your computer. If you are using a Mac (as in the
    instructional lab), this is as simple as typing "command-space" and then
    typing in terminal and hitting enter. There are more sophisticated terminal
@@ -43,25 +45,22 @@ Below we will explore some of these phenomena.
    * The `A` letter next to the IP address indicates that this is an "address"
      record, in other words an IP address. There are other record types. 
    * What does the number on the same line next to the A mean?
-3. Type `dig MX uchicago.edu`; how does the record differ? What do you
+3. Now repeat these steps above with `amazon.com` or another domain name of
+   your choice.  How do the results differ?
+4. Type `dig MX uchicago.edu`; how does the record differ? What do you
    think this record type is used for?
-4. Now type `dig NS uchicago.edu`. These records are called
+
+### Part 2: How the DNS Resolves a Query 
+
+5. Now type `dig NS uchicago.edu`. These records are called
    "authoritative name servers" for the domain, in other words the servers
    that are responsible for resolving any domain name in the `uchicago.edu`
    domain. How do you think your browser would find these servers? 
-5. Type `dig +trace uchicago.edu`. This "trace" provides the complete set of
+6. Type `dig +trace uchicago.edu`. This "trace" provides the complete set of
    DNS lookups that your browser would issue to resolve the domain name
    `uchicago.edu` to an IP address. How many lookups are performed? How long
    does each one take? Imagine that when loading a web page, you'd need to
    load hundreds of objects. How could this process be sped up?
-
-Below are some more questions we can explore in class together that build on
-these initial experiments.
-
-## Questions
-
-Now repeat these steps above with `amazon.com` or another domain name of
-your choice.  How do the results differ?
 
 ## Home Thought Question
 
