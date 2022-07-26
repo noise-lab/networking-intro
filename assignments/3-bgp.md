@@ -67,3 +67,5 @@ to an Internet destiantion.
 Internet routes are continually changing.  If you want to see it in action,
 type an Internet address or "prefix" into the interface at
 [BGPlay](https://bgplay.massimocandela.com/).
+
+Why do you think Internet routes continually change?
