@@ -46,7 +46,7 @@ conditions.
 
 ### Part 1: Basic Speedtest
 
-1. Open up your web browser and go to `https://speedtest.net/`.
+1. Open up your web browser and go to the [Speedtest](https://speedtest.net/) website.
 2. Run a speed test by clicking "Go" on the web page.
 3. Make note of the following values:
     - Upload Throughput
@@ -67,7 +67,7 @@ conditions.
 3. Think about the following questions:
     - What differences do you notice?
 
-## Home Thought Question
+## Going Further
 
 How well does Internet speed testing reflect user experience? That is a
 complex question, and one that really cuts to the chase of many questions at

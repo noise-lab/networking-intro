@@ -62,7 +62,7 @@ to an Internet destiantion.
    - Can you compare the information you see in the routing table from the
      information you see in the traceroute?
  
-## Home Thought Question
+## Going Further
 
 Internet routes are continually changing.  If you want to see it in action,
 type an Internet address or "prefix" into the interface at

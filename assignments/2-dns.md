@@ -62,7 +62,7 @@ Below we will explore some of these phenomena.
    does each one take? Imagine that when loading a web page, you'd need to
    load hundreds of objects. How could this process be sped up?
 
-## Home Thought Question
+## Going Further
 
 If you have Virtual Private Network (VPN) software, you know that part of what
 that software does is make your computer look like you are coming from a

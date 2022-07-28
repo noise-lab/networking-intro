@@ -58,7 +58,7 @@ Repeat the above for a simple page like `https://www.cs.uchicago.edu/` and
 then again for a more complicated page of your choice (e.g.,
 `https://nytimes.com/`)
 
-## Home Thought Question
+## Going Further
 
 Suppose you wanted to make this webpage load faster. What kinds of
 optimizations could you make?
