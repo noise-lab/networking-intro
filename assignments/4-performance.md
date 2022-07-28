@@ -57,7 +57,7 @@ conditions.
     - Your Internet Service Provider
 4. Enter the values above into the following [web form](https://forms.gle/4kDJPFuYPfrxYN3P9).
 
-### Part 2: Varying the conditions
+### Part 2: Varying the Conditions
 
 1. Run the same test again above.
     - Do you see the same numbers? Why or why not?
