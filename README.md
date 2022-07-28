@@ -7,4 +7,4 @@
 | 26 Jul     | Routing: Getting from Here to There        | RouteViews and Traceroute |
 | 28 Jul     | Internet Performance Measurements          | Speed Test                |
 | 02 Aug     | Internet Security and Privacy              | IoT Privacy               |
-| 04 Aug     | Internet Policy: Digital Divide and Beyond | Census Data               |
+| 04 Aug     | Internet Policy: Digital Divide and Beyond | Census/Netrics Data       |
