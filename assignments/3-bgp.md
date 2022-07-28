@@ -3,7 +3,7 @@
 ## Overview
 
 In this assignment, we will learn about how Internet traffic travels between
-Internet endpoints, or IP addresses.  There 
+Internet endpoints, or IP addresses.  
 
 ## Background
 
