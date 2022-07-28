@@ -52,7 +52,7 @@ conditions.
     - Upload Throughput
     - Download Throughput
     - Latency
-    - Ping (latency)
+    - Jitter
     - Upstream Server
     - Your Internet Service Provider
 4. Enter the values above into the following [web form](https://forms.gle/4kDJPFuYPfrxYN3P9).
