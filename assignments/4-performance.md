@@ -14,11 +14,15 @@ accurately measuring performance.
 ## Overview 
 
 Internet performance involves many metrics, including the following:
-  - Throughput (``speed'')
-  - Latency
-  - Jitter
-  - Packet loss rate
-  - Latency under load, or responsiveness
+  - **Throughput (``speed'').** Measured in bits per second, this is how much data
+    can be transferred across the network in a given amount of time.
+  - **Latency.** Measured in milliseconds, this is the amount of time it takes for
+    a single piece of data to go from one place to another on the network.
+  - **Jitter.** Measured in milliseconds, this is variation in latency, 
+  - **Packet loss rate.** Measured in percent or fraction, this is the fraction of
+    packets lost.
+  - **Latency under load, or responsiveness.** Measured in milliseconds, this is
+    the latency as measured when there is traffic being sent on the network.
 All of these affect the performance of Internet applications in different
 ways. One of the difficulties in measuring and characterizing Internet
 performance is that performance is multi-dimensional; another aspect of
@@ -51,7 +55,7 @@ conditions.
     - Ping (latency)
     - Upstream Server
     - Your Internet Service Provider
-4. Enter the values above into the following [web form](https://docs.google.com/forms/d/18e_ZR8xR_MdjVy_AWqM4UrXNKUXgUe-2uiT6hqSQqX0/edit).
+4. Enter the values above into the following [web form](https://forms.gle/4kDJPFuYPfrxYN3P9).
 
 ### Part 2: Varying the conditions
 
@@ -65,3 +69,13 @@ conditions.
 
 ## Home Thought Question
 
+How well does Internet speed testing reflect user experience? That is a
+complex question, and one that really cuts to the chase of many questions at
+the intersection of Internet technology and policy.
+
+Read [this article](https://www.wsj.com/graphics/faster-internet-not-worth-it/) about how
+fast Internet speeds need to be to support different applications like video
+streaming on demand.
+
+- Does a speed test reflect the user experience in this case? 
+- How would you design a better speed test that captured user experience?
