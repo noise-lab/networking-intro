@@ -1,4 +1,4 @@
-# Introduction to Networking for UChicago OSP/CRP
+# Introduction to Networking 
 
 | Date       | Topic                                      | Hands-On                  |
 | ------     | ------------------------------------------ | ------------------------- |
