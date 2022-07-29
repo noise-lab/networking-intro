@@ -1,5 +1,7 @@
 # Introduction to Networking 
 
+Welcome to introduction to networking.
+
 | Date       | Topic                                      | Hands-On                  |
 | ------     | ------------------------------------------ | ------------------------- |
 | 19 Jul     | What Happens When You Load a Webpage?      | Web Inspect               |
