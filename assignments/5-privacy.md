@@ -55,6 +55,9 @@ only the traffic we are interested in looking at.
 4. Start the capture.
 
 What can you learn about the web browsing activity from this capture?
+    - What websites do you see?
+    - Can you learn about other activities (e.g., when someone was browsing a
+      site, how long they spent on the site, etc.)?
 
 ## Going Further
 
