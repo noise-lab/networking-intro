@@ -33,7 +33,7 @@ Let's first use Wireshark to explore a basic packet capture that we have
 provided for you.
 
 1. Open Wireshark.
-2. Use Wireshark to open the provided packet capture file [nestcam_live.pcap](data/nestcam_live.pcap)`.
+2. Use Wireshark to open the provided packet capture file [nestcam_live.pcap](../data/nestcam_live.pcap)`.
 3. Answer the following questions about the trace:
     - How many bytes were sent in the trace?
     - To whom was the device communicating with, and when?
